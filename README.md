@@ -1,10 +1,10 @@
-# 🤝 Community Help Hub
+# 🤝 Help-Forge
 
 A collaborative Reddit app that transforms communities into supportive ecosystems where members can offer help, request assistance, and share valuable resources. Created for the **Reddit × Kiro Community Games Hackathon 2025**.
 
 ## 🌟 Overview
 
-Community Help Hub is an interactive Devvit application that fosters meaningful community engagement through three core pillars of collaboration. The app creates a dedicated space within Reddit posts where community members can connect, support each other, and build stronger relationships through mutual aid and resource sharing.
+Help-Forge is an interactive Devvit application that fosters meaningful community engagement through three core pillars of collaboration. The app creates a dedicated space within Reddit posts where community members can connect, support each other, and build stronger relationships through mutual aid and resource sharing.
 
 The experience centers around real-time community interaction with persistent data storage, ensuring that every contribution becomes part of the community's growing knowledge base. Users engage through an intuitive tabbed interface that categorizes different types of community support, making it easy to find relevant help or contribute expertise.
 
@@ -57,7 +57,7 @@ The experience centers around real-time community interaction with persistent da
 
 ## 🧠 Kiro Developer Experience
 
-Kiro IDE was instrumental in accelerating the development of Community Help Hub, providing an exceptional developer experience that significantly reduced cognitive load and improved workflow efficiency.
+Kiro IDE was instrumental in accelerating the development of Help-Forge, providing an exceptional developer experience that significantly reduced cognitive load and improved workflow efficiency.
 
 ### 🚀 Kiro-Powered Development Workflow
 
@@ -205,4 +205,4 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 | **✅ Reddit-y Community Play** | Achieved | Authentic Reddit username integration, community-focused features, and seamless platform integration |
 | **✅ Kiro Developer Experience** | Achieved | Extensive use of Kiro steering system, AI-assisted development, and streamlined workflow optimization |
 
-**Community Help Hub** represents the perfect fusion of Reddit's community spirit with modern web development practices, powered by Kiro IDE's intelligent development environment. The app transforms passive community browsing into active mutual support, creating stronger, more connected Reddit communities.
+**Help-Forge** represents the perfect fusion of Reddit's community spirit with modern web development practices, powered by Kiro IDE's intelligent development environment. The app transforms passive community browsing into active mutual support, creating stronger, more connected Reddit communities.
