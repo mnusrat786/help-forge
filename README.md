@@ -181,6 +181,7 @@ help--forge/
 - **App Listing** → https://developers.reddit.com/apps/help--forge
 - **Demo Post** → https://www.reddit.com/r/help__forge_dev/comments/1oj621a/helpforge_a_reddit_community_help_hub_hackathon/
 - **GitHub Repo** → https://github.com/mnusrat786/help-forge
+- **App Link** → https://www.reddit.com/r/help__forge_dev/comments/1oj2lky/community_help_hub_connect_share_resources/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button
 
 ## 📄 License
 
@@ -193,5 +194,3 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 2. **Reputation System**: Implement a community-driven reputation system where helpful contributors earn badges and recognition, encouraging quality participation.
 
 3. **Direct Messaging Integration**: Enable private messaging between help seekers and providers for more detailed assistance while maintaining community visibility.
-
----
